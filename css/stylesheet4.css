@@ -200,7 +200,7 @@ body.open ul {
 
 .one
 {
-    background-image: url(../images/pexels-artem-podrez-5716008.jpg);
+    background-image: url(../image/pexels-artem-podrez-5716008.jpg);
     background-size: cover;
     width: 100vw;
     height: 100vh;
@@ -210,7 +210,7 @@ body.open ul {
 
 .two
 {
-    background-image: url(../images/pexels-cottonbro-studio-4101143.jpg);
+    background-image: url(../image/pexels-cottonbro-studio-4101143.jpg);
     background-size: cover;
     width: 100vw;
     height: 100vh;
@@ -220,7 +220,7 @@ body.open ul {
 
 .three
 {
-    background-image: url(../images/pexels-tima-miroshnichenko-6693646.jpg);
+    background-image: url(../image/pexels-tima-miroshnichenko-6693646.jpg);
     background-size: cover;
     width: 100vw;
     height: 100vh;
@@ -350,7 +350,7 @@ main
 
 .third
 {
-    background-image: url(../images/pexels-fauxels-3183150.jpg);
+    background-image: url(../image/pexels-fauxels-3183150.jpg);
     height: 100%;
     width: 100vw;
     background-attachment: fixed;
